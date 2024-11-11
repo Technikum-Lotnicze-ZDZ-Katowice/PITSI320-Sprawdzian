@@ -1,3 +1,5 @@
 # PITSI320-Sprawdzian
 
-<video src='Resize.mkv' width=1000/>
+![Spr_01](Spr_01.PNG)
+
+![Spr_02](Spr_02.PNG)
