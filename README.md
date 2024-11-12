@@ -1,8 +1,15 @@
 # PITSI320-Sprawdzian
 
-### Sprawdzian
+### Sprawdzian 2024.11.12
 
-Odwzoruj poniższy layout strony nie zmieniając zawartości body przestawioną poniżej:
+Odwzoruj dokładnie poniższy layout strony przy pomocy css:float nie zmieniając zawartości body przestawionej poniżej:
+
+CZAS PRACY: 25min
+
+- grubość obramowania elementów: 10px
+- odległości między elementami: 20px
+- odległości między elementami a krawędziami obszaru aktywnego przeglądarki: 20px
+- responsywność działająca jak na ostatnim obrazie.
 
 ```html
 <body>
