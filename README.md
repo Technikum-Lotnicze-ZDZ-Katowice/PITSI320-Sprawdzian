@@ -17,3 +17,5 @@ Odwzoruj poniższy layout strony nie zmieniając zawartości body przestawioną 
 ![Spr_01](Spr_01.png)
 
 ![Spr_02](Spr_02.png)
+
+![Resize](Resize.gif)
