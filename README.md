@@ -26,3 +26,8 @@ CZAS PRACY: 25min
 ![Spr_02](Spr_02.png)
 
 ![Resize](Resize.gif)
+
+
+![Spr_02](Layout4.png)
+
+![Spr_02](Layout5.png)
