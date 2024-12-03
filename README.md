@@ -32,4 +32,4 @@ CZAS PRACY: 25min
 
 ![Spr_02](Layout5.png)
 
-![Spr_08](Layout_8png)
+![Spr_08](Layout_8.png)
