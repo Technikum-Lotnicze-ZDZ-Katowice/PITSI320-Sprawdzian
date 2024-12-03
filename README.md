@@ -1,5 +1,9 @@
 # PITSI320-Sprawdzian
 
+
+https://drive.google.com/drive/folders/1ipzdrAmN_QSsmYsPFyZRqj67OiQmV2Jb?usp=drive_link
+
+
 ### Sprawdzian 2024.11.12
 
 Odwzoruj dokładnie poniższy layout strony przy pomocy css:float nie zmieniając zawartości body przestawionej poniżej:
